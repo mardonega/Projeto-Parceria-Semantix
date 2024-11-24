@@ -106,16 +106,7 @@ Confira o vídeo demonstrativo do funcionamento do aplicativo:
 - **Desenvolvedor:** Mardonega  
 - **E-mail:** [mardonega@gmail.com](mailto:mardonega@gmail.com)
 
----
-
-## **Como Atualizar no GitHub**
-1. Salve este conteúdo como `README.md` no **VS Code**, na raiz do projeto.
-2. No terminal, navegue até a pasta do projeto e execute os comandos abaixo:
-   ```bash
-   git add README.md
-   git commit -m "Atualização do README.md com todas as informações formatadas"
-   git push origin main
-   ```
+ ```
 3. Verifique no GitHub se o README aparece corretamente formatado.
 
 ---
