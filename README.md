@@ -107,6 +107,3 @@ Confira o vídeo demonstrativo do funcionamento do aplicativo:
 - **E-mail:** [mardonega@gmail.com](mailto:mardonega@gmail.com)
 
  ```
-3. Verifique no GitHub se o README aparece corretamente formatado.
-
----
